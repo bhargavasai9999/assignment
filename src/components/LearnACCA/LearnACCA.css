@@ -1,0 +1,16 @@
+.learn-heading{
+    background-color: #07055ce0 ;
+    padding: 8px;
+    color: white;
+}
+.learn-skills{
+    background-color: aliceblue;
+    color: #07055ce0;
+}
+.learn-div{
+    border-radius: 2px;
+    background-color: aliceblue;
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+}

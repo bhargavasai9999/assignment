@@ -1,24 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+import { FormComponent } from './components/Forms/FormComponent';
+import { Header } from './components/Header/Header';
+import { Intro } from './components/IntroPage/Intro';
+import { LearnACCA } from './components/LearnACCA/LearnACCA';
+import { Placements } from './components/Placements/Placements';
+import { StartJourney } from './components/StartJourney/StartJourney';
+import { Card } from './components/WhyChoose/Card';
+import { WhyChoose } from './components/WhyChoose/WhyChoose';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+          <>
+            <Header/>
+            <Intro/>
+            <WhyChoose/>
+            <LearnACCA/>
+            <Placements/>
+            <StartJourney/>
+          </>
   );
 }
 

@@ -1,0 +1,21 @@
+.start-journey-div{
+    background-color: aliceblue;
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+
+}
+.start-journey-button{
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border: 0px;
+}
+.start-journey-form-div{
+    background-color: white;
+    border-radius: 4px;
+    padding: 10px;
+}

@@ -1,0 +1,28 @@
+.start-journey-div{
+    background-color: aliceblue;
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+
+}
+.start-journey-button{
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    border: 0px;
+}
+.start-journey-form-div{
+    background-color: white;
+    border-radius: 4px;
+    padding: 10px;
+}
+.durationCard-intro{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 5px;
+    border-style: solid;
+    background: aliceblue;
+    
+}

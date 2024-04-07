@@ -1,0 +1,35 @@
+.form-button{
+
+    background-color: #151394e0;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    border-width: 0px;
+    text-align: center;
+    
+
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 2px;
+    box-sizing: border-box;
+  }
+  
+  .form-select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 2px;
+    box-sizing: border-box;
+  }
+  
+
+  .form-button:hover {
+    background-color: #0056b3;
+  }
+  
