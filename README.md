@@ -1,11 +1,12 @@
 # Assignment
 
-This is a React Project along that i used Bootstrap for Styling
+This is a React Project along with Bootstrap for Styling
 ## Clone Repo
-clone repository CMD `git clone https://github.com/bhargavasai9999/assignment` 
-open Directory `cd assignment` 
-
-next install node packages CMD `npm install`
+clone repository CMD `git clone https://github.com/bhargavasai9999/assignment`   
+<br>
+open Directory CMD `cd assignment`   
+<br>
+install node modules CMD `npm install`
 ### `npm start`
 
 Runs the app in the development mode.
